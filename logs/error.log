@@ -1,0 +1,7 @@
+error: Error while making request, Error : 
+TypeError: logger.error is not a function {"timestamp":"2024-02-05T12:41:08.129Z"}
+error: Error while making request :TypeError: logger.error is not a function {"timestamp":"2024-02-05T12:42:22.189Z"}
+error: Error while making request :TypeError: logger.error is not a function {"timestamp":"2024-02-05T12:44:35.111Z"}
+error: Error while making request : Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2024-02-05T13:02:17.608Z"}
+error: Error while making request : Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client {"timestamp":"2024-02-06T02:56:59.163Z"}
+error: Error while making request : TypeError: userModel.getUser is not a function {"timestamp":"2024-02-06T03:18:23.792Z"}
